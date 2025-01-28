@@ -3,7 +3,7 @@
     "!Microsoft Visual C++ 2003-2022": ["vcrun2003", "vcrun2005", "vcrun2008", "vcrun2010", "vcrun2012", "vcrun2013", "vcrun2022"],
     "!Microsoft Visual C++ 2015-2022": ["vcrun2022"],
     "!Physx": ["physx"],
-    "!Набор библитек для установки репаков": ["mfc42", "vcrun6sp6", "vcrun2022"],
+    "!Libraries for installing repacks": ["mfc42", "vcrun6sp6", "vcrun2022"],
     "Alpha Protocol": ["physx"],
     "Grand Theft Auto: Vice City Nextgen Edition": ["d3dcompiler_43", "d3dx9", "dotnet20", "dotnet40", "vcrun2005"],
     "Batman: Arkham Asylum": ["d3dcompiler_43", "d3dx9", "physx", "vcrun2005"],
