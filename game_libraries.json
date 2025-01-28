@@ -59,5 +59,4 @@
     "Warhammer 40,000: Space Marine": ["d3dcompiler_47"],
     "X-Men Origins: Wolverine": ["physx"],
     "!Vortex, Mod Organizer": ["d3dcompiler_43", "d3dcompiler_47", "d3dx11_43", "faudio", "dotnet8", "dotnetdesktop8", "vcrun2022"]
-
 }
