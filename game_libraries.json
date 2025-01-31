@@ -14,7 +14,7 @@
     "Darksiders II Deathinitive Edition": ["d3dcompiler_47"],
     "Fallout 4": ["faudio"],
     "Forza Horizon 4": ["d3dcompiler_43", "d3dx9", "mfc140", "vcrun2015"],
-    "Forza Horizon 5": ["mfc140", "vcrun2015"],
+    "Forza Horizon 5": ["vcrun2022"],
     "Gears of War": ["d3dcompiller_47"],
     "Gothic 1": ["directmusic"],
     "Gothic 2": ["directmusic"],
