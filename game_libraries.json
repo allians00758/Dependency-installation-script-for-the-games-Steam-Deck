@@ -1,5 +1,6 @@
 {
-    "!Microsoft .NET Framework 2.0, 4.0": ["dotnet20", "dotnet40"],
+    "!Microsoft .NET Framework 2.0sp2 , 4.0": ["dotnet20sp2", "dotnet40"],
+    "!Microsoft Visual C++ 2003-2022": ["vcrun2003", "vcrun2005", "vcrun2008", "vcrun2010", "vcrun2012", "vcrun2013", "vcrun2022"],
     "!Microsoft Visual C++ 2015-2022": ["vcrun2022"],
     "!Physx": ["physx"],
     "!Набор библитек для установки репаков": ["mfc42", "vcrun6sp6", "vcrun2022"],
@@ -14,7 +15,7 @@
     "Darksiders II Deathinitive Edition": ["d3dcompiler_47"],
     "Fallout 4": ["faudio"],
     "Forza Horizon 4": ["d3dcompiler_43", "d3dx9", "mfc140", "vcrun2015"],
-    "Forza Horizon 5": ["vcrun2022"],
+    "Forza Horizon 5": ["mfc140", "vcrun2015"],
     "Gears of War": ["d3dcompiller_47"],
     "Gothic 1": ["directmusic"],
     "Gothic 2": ["directmusic"],
@@ -58,5 +59,5 @@
     "Warhammer 40,000: Space Marine": ["d3dcompiler_47"],
     "X-Men Origins: Wolverine": ["physx"],
     "!Vortex, Mod Organizer": ["d3dcompiler_43", "d3dcompiler_47", "d3dx11_43", "faudio", "dotnet8", "dotnetdesktop8", "vcrun2022"],
-    "Dust - An Elysian Tail": ["d3dx9", "d3dx9_41", "dotnet20sp2", "openal", "xna40"]
+    "Dust - An Elysian Tail": ["d3dx9", "d3dx9_41","openal", "xna40"]
 }
