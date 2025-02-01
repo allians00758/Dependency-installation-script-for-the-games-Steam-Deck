@@ -10,7 +10,7 @@
 
 **Установка**
 
-1. Скачиваем скрипт **libraries_installer.sh**
+1. Скачиваем скрипт **steam_deck_helper.sh**
 2. Делаем его исполняемым, для этого открываем Терминал (Консоль) в текущем каталоге и пишем команду:
    
    **chmod +x ./libraries_installer.sh** ,
@@ -28,7 +28,7 @@ For the script to work correctly, protontriks is required, at the first launch i
 
 **Installation**
 
-1. Download the script **libraries_installer.sh**
+1. Download the script **steam_deck_helper.sh**
 2. Make it executable, for this, open the Terminal (Konsole) in the current directory and write the command:
 
 **chmod +x ./libraries_installer.sh** ,
