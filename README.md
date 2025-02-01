@@ -13,7 +13,7 @@
 1. Скачиваем скрипт **steam_deck_helper.sh**
 2. Делаем его исполняемым, для этого открываем Терминал (Консоль) в текущем каталоге и пишем команду:
    
-   **chmod +x ./libraries_installer.sh** ,
+   **chmod +x ./steam_deck_helper.sh** ,
    
    Или открываем **Свойства** скрипта и во вкладке **Права**, ставим чек бокс **"Является исполняемым"**.
 3. Запускаем
@@ -31,7 +31,7 @@ For the script to work correctly, protontriks is required, at the first launch i
 1. Download the script **steam_deck_helper.sh**
 2. Make it executable, for this, open the Terminal (Konsole) in the current directory and write the command:
 
-**chmod +x ./libraries_installer.sh** ,
+**chmod +x ./steam_deck_helper.sh** ,
 
 Or open the **Properties** of the script and in the **Rights** tab, check the box **"Is executable"**.
 
