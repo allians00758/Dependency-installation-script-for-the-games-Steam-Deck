@@ -18,7 +18,7 @@
    
 **EN**
 
-Hello everyone, this script was created for the convenience of installing ready-made, selected libraries for games, and can also delete wine files from prefix, delete prefix from the compatdata directory and clean the shader cache from the shadercache directory.
+Hello everyone, this script was created for the convenience of installing ready-made, selected libraries for games, and can also delete wine files from prefix, delete prefix from the compatdata directory and clean the shadercache from the shadercache directory.
 
 **Introduction**
 
