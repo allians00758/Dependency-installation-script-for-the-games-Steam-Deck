@@ -29,7 +29,7 @@ For the script to work correctly, protonricks is required, at the first launch i
 **Installation**
 
 1. Download the script **[steam_deck_helper.sh](https://github.com/allians00758/steam_deck_helper/releases/download/dlls/steam_deck_helper.sh)**
-2. Make it executable, for this, open the Terminal (Konsole) in the current directory and write the command:
+2. Make it executable, for this open the Terminal (Konsole) in the script directory and type:
 
 **chmod +x ./steam_deck_helper.sh** ,
 
