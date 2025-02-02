@@ -2,7 +2,7 @@
 
 **RU**
 
-Всем привет, данный скрипт был создан для удобства установки уже готовых, подобранных библиотек для игр, а так же умеет удалять файлы wine из prefix, удалять prefix из каталога compatdata и чистить кеш шейдеров из каталога shadercache.
+Всем привет, данный скрипт был создан для удобства установки уже готовых, подобранных библиотек для игр, а также умеет удалять файлы wine из prefix, удалять prefix из каталога compatdata и чистить кеш шейдеров из каталога shadercache.
 
 **Предисловие**
 
@@ -22,7 +22,7 @@ Hello everyone, this script was created for the convenience of installing ready-
 
 **Introduction**
 
-For the script to work correctly, protontricks is required, at the first launch it will check whether you have it installed, if not, it will install the flatpak version of the program itself.
+Protontricks is required for correct works, at the first launch it will check whether you have it installed, if not, it will install the flatpak version of the program itself.
 
 **Installation**
 
