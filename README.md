@@ -22,7 +22,7 @@
 
 Hello everyone, this script was created for the convenience of installing ready-made, selected libraries for games, and can also delete proton files from prefix, delete prefix from the compatdata directory and clean the shader cache from the shadercache directory.
 
-**Preface**
+**Introduction**
 
 For the script to work correctly, protonricks is required, at the first launch it will check whether you have it installed, if not, it will install the flatpak version of the program itself.
 
