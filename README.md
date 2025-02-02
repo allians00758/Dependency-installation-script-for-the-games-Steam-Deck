@@ -6,7 +6,7 @@
 
 **Предисловие**
 
-Для правильной работы скрипта требуется protontriks, при первом запуске будет произведена проверка установлен ли он у вас, если нет, то установит самостоятельно flatpak версию программы.
+Для правильной работы скрипта требуется protonricks, при первом запуске будет произведена проверка установлен ли он у вас, если нет, то установит самостоятельно flatpak версию программы.
 
 **Установка**
 
@@ -24,7 +24,7 @@ Hello everyone, this script was created for the convenience of installing ready-
 
 **Preface**
 
-For the script to work correctly, protontriks is required, at the first launch it will check whether you have it installed, if not, it will install the flatpak version of the program itself.
+For the script to work correctly, protonricks is required, at the first launch it will check whether you have it installed, if not, it will install the flatpak version of the program itself.
 
 **Installation**
 
