@@ -2,7 +2,7 @@
 
 **RU**
 
-Всем привет, данный скрипт был создан для удобства установки уже готовых, подобранных библиотек для игр, а так же умеет удалять файлы proton из prefix, удалять prefix из каталога compatdata и чистить кеш шейдеров из каталога shadercache.
+Всем привет, данный скрипт был создан для удобства установки уже готовых, подобранных библиотек для игр, а так же умеет удалять файлы wine из prefix, удалять prefix из каталога compatdata и чистить кеш шейдеров из каталога shadercache.
 
 **Предисловие**
 
@@ -18,7 +18,7 @@
    
 **EN**
 
-Hello everyone, this script was created for the convenience of installing ready-made, selected libraries for games, and can also delete proton files from prefix, delete prefix from the compatdata directory and clean the shader cache from the shadercache directory.
+Hello everyone, this script was created for the convenience of installing ready-made, selected libraries for games, and can also delete wine files from prefix, delete prefix from the compatdata directory and clean the shader cache from the shadercache directory.
 
 **Introduction**
 
