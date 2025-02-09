@@ -14,7 +14,7 @@
 2. Делаем его исполняемым, для этого открываем Терминал (Консоль) в текущем каталоге и пишем команду:
 
    **chmod +x ./steam_deck_helper.sh**, или открываем **Свойства** скрипта и во вкладке **Права**, ставим чек бокс **"Является исполняемым"**.
-4. Запускаем
+4. Запускаем через **Konsole** (**L2 - Запустить в Konsole**)
    
 **EN**
 
@@ -30,4 +30,4 @@ Protontricks is required for correct works, at the first launch it will check wh
 2. Make it executable, for this open the Terminal (Konsole) in the script directory and type:
 
    **chmod +x ./steam_deck_helper.sh**, or open the **Properties** of the script and in the **Rights** tab, check the box **"Is executable"**.
-4. Run
+4. Launch via **Konsole** (**L2 - Run in Konsole**)
