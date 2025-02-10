@@ -44,6 +44,7 @@ create_shortcut() {
         Name[ru_RU]=Steam Deck Helper
         Name=Steam Deck Helper
         Path=
+        Categories=Game
         StartupNotify=true
         Terminal=true
         TerminalOptions=
