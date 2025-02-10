@@ -3,7 +3,8 @@
     "!Microsoft Visual C++ 2003-2022": ["vcrun2003", "vcrun2005", "vcrun2008", "vcrun2010", "vcrun2012", "vcrun2013", "vcrun2022"],
     "!Microsoft Visual C++ 2015-2022": ["vcrun2022"],
     "!Physx": ["physx"],
-    "!Набор библитек для установки репаков": ["mfc42", "vcrun6sp6", "vcrun2022"],
+    "!ReShade": ["d3dcompiler_47"],
+    "!A set of libraries for installing repacks": ["mfc42", "vcrun6sp6", "vcrun2022"],
     "Alpha Protocol": ["physx"],
     "Grand Theft Auto: Vice City Nextgen Edition": ["d3dcompiler_43", "d3dx9", "dotnet20", "dotnet40", "vcrun2005"],
     "Batman: Arkham Asylum": ["d3dcompiler_43", "d3dx9", "physx", "vcrun2005"],
@@ -14,8 +15,8 @@
     "Cryostasis Sleep of Reason": ["d3dcompiler_47", "physx"],
     "Darksiders II Deathinitive Edition": ["d3dcompiler_47"],
     "Fallout 4": ["faudio"],
-    "Forza Horizon 4": ["d3dcompiler_43", "d3dx9", "mfc140", "vcrun2015"],
-    "Forza Horizon 5": ["vcrun2022"],
+    "Forza Horizon 4": ["d3dcompiler_43", "d3dx9", "mfc140", "vcrun2022"],
+    "Forza Horizon 5": ["mfc140", "vcrun2022"],
     "Gears of War": ["d3dcompiller_47"],
     "Gothic 1": ["directmusic"],
     "Gothic 2": ["directmusic"],
@@ -59,5 +60,8 @@
     "Warhammer 40,000: Space Marine": ["d3dcompiler_47"],
     "X-Men Origins: Wolverine": ["physx"],
     "!Vortex, Mod Organizer": ["d3dcompiler_43", "d3dcompiler_47", "d3dx11_43", "faudio", "dotnet8", "dotnetdesktop8", "vcrun2022"],
-    "Dust - An Elysian Tail": ["d3dx9", "d3dx9_41","openal", "xna40"]
+    "Dust - An Elysian Tail": ["d3dx9", "d3dx9_41","openal", "xna40"],
+    "The Amazing Spider-Man": ["d3dcompiler_43", "d3dx9", "d3dx9_43", "vcrun2008"],
+    "The Amazing Spider-Man 2": ["d3dcompiler_43", "d3dx9", "d3dx9_43", "vcrun2012"],
+    "Need for Speed: Carbon": ["d3dcompiler_43", "d3dcompiler_47", "d3dx9"]
 }
